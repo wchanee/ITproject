@@ -25,3 +25,9 @@ The project is tailored to:
 - **Forex Charts**: Displays visual trends for selected currencies.
 - **Time Zones**: Displays current times for various countries/regions.
 - **Calculator**: Includes an integrated tool for quick calculations.
+
+### Design Diagram (Use Case Diagram):
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/d98f8a27-cec7-40a8-8cce-c2756af8b02a" />
+
+### Flowchart:
+<img width="243" alt="image" src="https://github.com/user-attachments/assets/348b081a-b76e-42f5-a3ba-a771e65c8c7a" />

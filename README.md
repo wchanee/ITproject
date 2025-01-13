@@ -31,3 +31,6 @@ The project is tailored to:
 
 ### ⛓️ Flowchart:
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/348b081a-b76e-42f5-a3ba-a771e65c8c7a" />
+
+### 📄 Project Poster:
+[Project Poster.pdf](https://github.com/user-attachments/files/18397890/Project.Poster.pdf)

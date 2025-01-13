@@ -33,5 +33,4 @@ The project is tailored to:
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/348b081a-b76e-42f5-a3ba-a771e65c8c7a" />
 
 ### 📄 Project Poster:
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/bd717e6b-98b2-4dd0-99f4-b6c8c403a1a5" />
-
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/389a0d2c-c838-458c-aae7-dd89402d59b1" />

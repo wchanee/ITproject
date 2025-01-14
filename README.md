@@ -35,19 +35,14 @@ The project is tailored to:
 ### 📄 Project Poster:
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/389a0d2c-c838-458c-aae7-dd89402d59b1" />
 
----
-
-## How to Run the Project on Localhost
-
+### ？How to Run the Project on Localhost
 Follow these steps to set up and run this PHP project on your local machine:
-
-### Prerequisites
 1. Install PHP
 Make sure PHP is installed on your system. To check, run:
 ```bash
 php -v
 ```
-If PHP is not installed, download and install it from [PHP net](https://www.php.net/downloads).
+  If PHP is not installed, download and install it from [PHP net](https://www.php.net/downloads).
 
 2. Install a Local Server **(Additional)**
 Choose and install one of the following local servers:

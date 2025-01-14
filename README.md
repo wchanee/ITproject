@@ -42,16 +42,29 @@ The project is tailored to:
 Follow these steps to set up and run this PHP project on your local machine:
 
 ### Prerequisites
+1. Install PHP
+Make sure PHP is installed on your system. To check, run:
+```bash
+php -v
+```
+If PHP is not installed, download and install it from [PHP net](https://www.php.net/downloads).
 
-1. **Install PHP**  
-   Make sure PHP is installed on your system. To check, run:
-   ```bash
-   php -v
-   ```
-   If PHP is not installed, download it from https://www.php.net/downloads.
-
-2.	Install a Local Server
+2. Install a Local Server **(Additional)**
 Choose and install one of the following local servers:
-	•	XAMPP
-	•	WAMP
-	•	MAMP
+- [XAMPP](https://www.apachefriends.org/download.html)
+
+3. Install the PHP Extension for VS Code
+- Open VS Code.
+- Go to the Extensions view by clicking on the Extensions icon in the Activity Bar or pressing Ctrl+Shift+X / Cmd+Shift+X.
+- Search for “PHP” and install the extension provided by felixfbecker or any other preferred extension.
+
+4. Run the PHP File
+- Open the terminal in VS Code by pressing Ctrl+` or going to View > Terminal.
+- Navigate to the directory containing your PHP file using the cd command:
+```bash
+cd path/to/your/php/file
+```
+- Run the PHP file with the following command:
+```bash
+php index.php
+```

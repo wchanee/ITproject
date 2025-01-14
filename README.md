@@ -27,10 +27,31 @@ The project is tailored to:
 - **Calculator**: Includes an integrated tool for quick calculations.
 
 ### ⛓️ Design Diagram (Use Case Diagram):
-<img width="238" alt="image" src="https://github.com/user-attachments/assets/d98f8a27-cec7-40a8-8cce-c2756af8b02a" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/d98f8a27-cec7-40a8-8cce-c2756af8b02a" />
 
 ### ⛓️ Flowchart:
-<img width="243" alt="image" src="https://github.com/user-attachments/assets/348b081a-b76e-42f5-a3ba-a771e65c8c7a" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/348b081a-b76e-42f5-a3ba-a771e65c8c7a" />
 
 ### 📄 Project Poster:
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/389a0d2c-c838-458c-aae7-dd89402d59b1" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/389a0d2c-c838-458c-aae7-dd89402d59b1" />
+
+---
+
+## How to Run the Project on Localhost
+
+Follow these steps to set up and run this PHP project on your local machine:
+
+### Prerequisites
+
+1. **Install PHP**  
+   Make sure PHP is installed on your system. To check, run:
+   ```bash
+   php -v
+   ```
+   If PHP is not installed, download it from https://www.php.net/downloads.
+
+2.	Install a Local Server
+Choose and install one of the following local servers:
+	•	XAMPP
+	•	WAMP
+	•	MAMP

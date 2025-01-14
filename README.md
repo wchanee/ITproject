@@ -37,8 +37,9 @@ The project is tailored to:
 
 ---
 
-### ？How to Run the Project on Localhost
+### ？How to Run the Project on Localhost:
 Follow these steps to set up and run this PHP project on your local machine:
+
 1. Install PHP
 Make sure PHP is installed on your system. To check, run:
 - If PHP is not installed, download and install it from [PHP net](https://www.php.net/downloads).

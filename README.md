@@ -7,7 +7,7 @@ The project is tailored to:
 - **Travelers**: Simplify travel planning by providing essential tools and hyperlinks for research, calculations, and arrangements.
 - **Forex Enthusiasts**: Access live forex charts and an in-built calculator to make informed decisions.
 
-### Key Features:
+### 🔑 Key Features:
 - **Currency Converter**: Seamlessly convert currencies with real-time exchange rates.
 - **Forex Charts**: View and analyze currency trends.
 - **Time Zones**: Get current times across different regions.
@@ -39,10 +39,10 @@ The project is tailored to:
 Follow these steps to set up and run this PHP project on your local machine:
 1. Install PHP
 Make sure PHP is installed on your system. To check, run:
+- If PHP is not installed, download and install it from [PHP net](https://www.php.net/downloads).
 ```bash
 php -v
 ```
-  If PHP is not installed, download and install it from [PHP net](https://www.php.net/downloads).
 
 2. Install a Local Server **(Additional)**
 Choose and install one of the following local servers:
@@ -50,11 +50,11 @@ Choose and install one of the following local servers:
 
 3. Install the PHP Extension for VS Code
 - Open VS Code.
-- Go to the Extensions view by clicking on the Extensions icon in the Activity Bar or pressing Ctrl+Shift+X / Cmd+Shift+X.
+- Go to the Extensions view by clicking on the Extensions icon in the Activity Bar or pressing **Ctrl+Shift+X** / **Cmd+Shift+X**.
 - Search for “PHP” and install the extension provided by felixfbecker or any other preferred extension.
 
 4. Run the PHP File
-- Open the terminal in VS Code by pressing Ctrl+` or going to View > Terminal.
+- Open the terminal in VS Code by pressing **Ctrl+`** or going to View > Terminal.
 - Navigate to the directory containing your PHP file using the cd command:
 ```bash
 cd path/to/your/php/file

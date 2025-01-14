@@ -45,7 +45,6 @@ php -v
 ```
 
 2. Install a Local Server **(Additional)**
-Choose and install one of the following local servers:
 - [XAMPP](https://www.apachefriends.org/download.html)
 
 3. Install the PHP Extension for VS Code

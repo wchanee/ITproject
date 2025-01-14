@@ -35,6 +35,8 @@ The project is tailored to:
 ### 📄 Project Poster:
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/389a0d2c-c838-458c-aae7-dd89402d59b1" />
 
+---
+
 ### ？How to Run the Project on Localhost
 Follow these steps to set up and run this PHP project on your local machine:
 1. Install PHP
